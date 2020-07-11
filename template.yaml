@@ -30,7 +30,7 @@ Parameters:
   AppName:
     Type: String
     Description: The name of the APP
-    Default: vlim-co-sam-python-boilerplate
+    Default: lambda-end-to-end-encryption
   TodoTableName:
     Type: String
     Default: 'TodoTable'
