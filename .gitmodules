@@ -1,3 +1,6 @@
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:voathnak/react-registration-login-example.git
+[submodule "snail"]
+	path = snail
+	url = git@github.com:voathnak/snail.git
